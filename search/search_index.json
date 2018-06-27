@@ -1,0 +1,34 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Welcome To SOS Code\n\u00b6\n\n\nPlease note:\n\n\nI am still new to coding so this is just to extend my knowledge. I don\u2019t need help as there are no graphics, but if you have a suggestion and know the code, please feel free to commit. You will have to request the commit. I don\u2019t want this wrecked.",
+            "title": "Home"
+        },
+        {
+            "location": "/#welcome-to-sos-code",
+            "text": "Please note:  I am still new to coding so this is just to extend my knowledge. I don\u2019t need help as there are no graphics, but if you have a suggestion and know the code, please feel free to commit. You will have to request the commit. I don\u2019t want this wrecked.",
+            "title": "Welcome To SOS Code"
+        },
+        {
+            "location": "/releasenotes/",
+            "text": "SOS Code Release Notes\n\u00b6\n\n\nSOS Code \n1.0.0-release\n\u00b6\n\n\nIn this release we have added a few more codes\n\n\nSOS Code \n0.0.1-pre\n\u00b6\n\n\nIn the first pre-release, we have added:\n\n\nplus, minus, times, divide\nprint words, paragraph space, execute, evaluate and sin",
+            "title": "Release Notes"
+        },
+        {
+            "location": "/releasenotes/#sos-code-release-notes",
+            "text": "",
+            "title": "SOS Code Release Notes"
+        },
+        {
+            "location": "/releasenotes/#sos-code-100-release",
+            "text": "In this release we have added a few more codes",
+            "title": "SOS Code 1.0.0-release"
+        },
+        {
+            "location": "/releasenotes/#sos-code-001-pre",
+            "text": "In the first pre-release, we have added:  plus, minus, times, divide\nprint words, paragraph space, execute, evaluate and sin",
+            "title": "SOS Code 0.0.1-pre"
+        }
+    ]
+}
